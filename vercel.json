@@ -1,4 +1,4 @@
 {
-  "buildCommand": "curl -L https://github.com/gohugoio/hugo/releases/download/v0.128.0/hugo_extended_0.128.0_linux-amd64.tar.gz | tar xz && ./hugo --gc --minify",
+  "buildCommand": "curl -sL https://github.com/gohugoio/hugo/releases/download/v0.159.0/hugo_extended_0.159.0_linux-amd64.tar.gz | tar xz && ./hugo --gc --minify",
   "outputDirectory": "public"
 }

@@ -1,3 +1,0 @@
----
-title: "faulty cables"
----
