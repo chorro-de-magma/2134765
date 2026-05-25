@@ -15,8 +15,8 @@
 			"type": "text",
 			"mime": "text/html",
 			"attributes": [],
-			"format": "markdown",
-			"dataFileName": "complete.md",
+			"format": "html",
+			"dataFileName": "complete.html",
 			"attachments": [],
 			"dirFileName": "complete",
 			"children": [
@@ -34,8 +34,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "dancing inc.md",
+					"format": "html",
+					"dataFileName": "dancing inc.html",
 					"attachments": []
 				},
 				{
@@ -52,8 +52,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "faulty cables.md",
+					"format": "html",
+					"dataFileName": "faulty cables.html",
 					"attachments": []
 				},
 				{
@@ -70,8 +70,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "trust.md",
+					"format": "html",
+					"dataFileName": "trust.html",
 					"attachments": []
 				},
 				{
@@ -88,8 +88,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "dilating dimensions.md",
+					"format": "html",
+					"dataFileName": "dilating dimensions.html",
 					"attachments": []
 				},
 				{
@@ -106,8 +106,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "shrieked.md",
+					"format": "html",
+					"dataFileName": "shrieked.html",
 					"attachments": []
 				},
 				{
@@ -124,8 +124,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "drying rack.md",
+					"format": "html",
+					"dataFileName": "drying rack.html",
 					"attachments": []
 				},
 				{
@@ -142,8 +142,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "cases.md",
+					"format": "html",
+					"dataFileName": "cases.html",
 					"attachments": []
 				},
 				{
@@ -160,8 +160,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "denial style.md",
+					"format": "html",
+					"dataFileName": "denial style.html",
 					"attachments": []
 				},
 				{
@@ -178,8 +178,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "fibonacci face.md",
+					"format": "html",
+					"dataFileName": "fibonacci face.html",
 					"attachments": []
 				},
 				{
@@ -196,8 +196,8 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "psychological loots.md",
+					"format": "html",
+					"dataFileName": "psychological loots.html",
 					"attachments": []
 				},
 				{
@@ -214,11 +214,615 @@
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "lost in the mirror.md",
+					"format": "html",
+					"dataFileName": "lost in the mirror.html",
 					"attachments": []
 				}
 			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "icon-color.svg"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-CYEKBG2K.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-JKX5W2C4.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-U6PRYMIZ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-5QL5CMTE.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-WZ3QSGD3.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-ZTS3R3HK.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-3LKEU76G.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-A7XRTZ5Q.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-KX5MEWCF.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-2QVFK6NQ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-T4SWXBMT.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-WGHVTYOR.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-2PEIFJSJ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-5U4OPH2X.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-PQMHCIK6.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-2GA4IZIN.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-W5FBVCZM.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-YP5VVQRP.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-4P4C7HJH.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-N4V3DX7S.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-ODMLBJJQ.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-I43T2HSR.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-RELBIK7M.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-SASNQFN2.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-ARRPAO67.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-P5I74A2A.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-W74P5G27.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-6EBV3DK5.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-K4WTGH3J.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-VB447A4D.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-6KGCHLFN.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-KKK3USB2.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-SON4MRCA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-RRNVJFFW.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-STQ6RXC7.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-X5M5EMOD.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-HMPFTM52.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-PSN4QKYX.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-WTBAZBGY.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-2TL3USAE.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-OQCII6EP.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-XIQ62X4E.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-72OLXYNA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-A5IFOEBS.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-APUWIHLP.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-4HRHTS65.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-5LRUTBFT.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-7K6AASVL.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-222HN3GT.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-K5ZHAIS6.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-LELKET5D.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-TLFPAHDE.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-UFCO6WCA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-WQRQ47UD.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-7PGNVPQK.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-CDMV7U5C.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-PKMWZHNC.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-3F5K6SQ6.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-MJMFSK64.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/architecture-7EHR7CIX-3VQ6FUW6.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/architectureDiagram-3BPJPVTR-3JPWNYZ2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/auto-render-QQTAH2OE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/blockDiagram-GPEHLZMM-D6HMKHEU.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/c4Diagram-AAUBKEIU-GDMNSIIG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-2PMLCMQG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-3FNRTN5T.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-3W2A7Q75.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-4ATG66XX.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-4MSXBPOV.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-4VS2DUFX.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-537HCW7W.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-653X6QT2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-77FMZJHF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-7D6RYQ64.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-AXYBE63Z.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-BOP7SXBH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-DPTBE23I.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-EFRIWQPB.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-EWNE4GCH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-HJ3WXURK.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-JSBRDJBE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-KW4SOZEK.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-LEPIKDPP.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-LG27ZH4Z.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-M2KJYY3V.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MAPMSBQM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MJRFX2VD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MQK6CX43.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ND2QV6PV.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-NV34X6WE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-OZTBPH7R.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-P23LY4ZL.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-PLGPVQQJ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-PPDX3L2Y.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-QHKF7Y75.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-RLBJ4JD5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-SZE4O3EH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-T2MAKF3X.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-U3PDN3TP.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-VPQJ2QCW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-WQQ2FBH7.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-WUCK74KM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-XCYIHSM3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/classDiagram-4FO5ZUOK-OZESARVM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/classDiagram-v2-Q7XG4LA2-SMXWZTZC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/cose-bilkent-S5V4N54A-LO3OGW3Z.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/dagre-BM42HDAG-LTL23PSI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-2AECGRRQ-PIEFJ76O.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-5GNKFQAL-BPFQSNLQ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-KO2AKTUF-2S2HK3FC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-LMA3HP47-BN6WTDMA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-OG6HWLK6-HQMUS77W.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/erDiagram-TEJ5UH35-I3FCKJOI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/eventmodeling-FCH6USID-E3UJ5DWB.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/flowDiagram-I6XJVG4X-7KNHTAL5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/fuse-RAGRSGLF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/ganttDiagram-6RSMTGT7-PIUNKNHO.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/gitGraph-WXDBUCRP-22XPLH52.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/gitGraphDiagram-PVQCEYII-MJYXA2S4.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/info-J43DQDTF-YFSHRSXM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/infoDiagram-5YYISTIA-OGNRNYX5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/ishikawaDiagram-YF4QCWOH-654UZZ4S.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/journeyDiagram-JHISSGLW-O22QQLGY.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/kanban-definition-UN3LZRKU-3WNVXQPS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/katex-EFSDNCTG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mermaid.core-EZEDOSQ2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mhchem-OD675UAP.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mindmap-definition-RKZ34NQL-V3CBHDDW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/packet-YPE3B663-NRTPJ44I.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/pie-LRSECV5Y-ZEK5WWUG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/pieDiagram-4H26LBE5-JKPS5CGA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/quadrantDiagram-W4KKPZXB-MNJV6JZF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/radar-GUYGQ44K-4ATZJGNZ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/requirementDiagram-4Y6WPE33-2U6RLGEI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/sankeyDiagram-5OEKKPKP-VFOXV5AQ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/sequenceDiagram-3UESZ5HK-RDIDAXKC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/stateDiagram-AJRCARHV-MWA5MGZK.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/stateDiagram-v2-BHNVJYJU-3QFO6WPE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/styles.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/timeline-definition-PNZ67QCA-NAFMUPTY.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/treeView-BLDUP644-HTKTHYD6.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/treemap-LRROVOQU-H3GD7DDE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/vennDiagram-CIIHVFJN-BGAKMHSF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/wardley-L42UT6IY-F5NYTX54.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/wardleyDiagram-YWT4CUSO-EXZLK5UV.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/xychartDiagram-2RQKCTM6-MAB5C7E3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
 		}
 	]
 }
