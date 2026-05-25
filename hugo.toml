@@ -1,7 +1,7 @@
 baseURL = 'https://notes-2134.vercel.app/'
 languageCode = 'en-us'
 title = "2134"
-theme = "enervoid"
+theme = "PaperMod"
 
 [menus]
   [[menus.main]]
