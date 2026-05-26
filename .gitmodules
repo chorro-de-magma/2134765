@@ -1,6 +1,0 @@
-[submodule "themes/enervoid"]
-	path = themes/enervoid
-	url = https://github.com/Enerhim/enervoid-theme.git
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
