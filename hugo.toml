@@ -1,6 +1,6 @@
-baseURL = 'https://2134.vercel.app/'
+baseURL = 'https://2134765.vercel.app/'
 languageCode = 'en-us'
-title = "2134"
+title = "2134765"
 theme = "PaperMod"
 
 [outputs]
@@ -8,4 +8,4 @@ home = ["HTML", "RSS"]
 section = ["HTML", "RSS"]
 
 [params]
-  description = "My notes"
+  description = "notes"
