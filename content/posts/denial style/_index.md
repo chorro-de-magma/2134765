@@ -1,7 +1,3 @@
----
-title: "denial style"
----
-
 # denial style
-
-Your content here.
+the best denial  
+is the one in style
