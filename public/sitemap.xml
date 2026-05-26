@@ -2,36 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://2134.vercel.app/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/cases/</loc>
+    <loc>https://2134.vercel.app/cases/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://2134.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/complete/</loc>
+    <loc>https://2134.vercel.app/complete/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/dancing-inc/</loc>
+    <loc>https://2134.vercel.app/dancing-inc/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/denial-style/</loc>
+    <loc>https://2134.vercel.app/denial-style/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/dilating-dimensions/</loc>
+    <loc>https://2134.vercel.app/dilating-dimensions/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/drying-rack/</loc>
+    <loc>https://2134.vercel.app/drying-rack/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/faulty-cables/</loc>
+    <loc>https://2134.vercel.app/faulty-cables/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/fibonacci-face/</loc>
+    <loc>https://2134.vercel.app/fibonacci-face/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/lost-in-the-mirror/</loc>
+    <loc>https://2134.vercel.app/lost-in-the-mirror/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://2134.vercel.app/psychological-loots/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/psychological-loots/</loc>
+    <loc>https://2134.vercel.app/shrieked/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/shrieked/</loc>
+    <loc>https://2134.vercel.app/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/trust/</loc>
+    <loc>https://2134.vercel.app/trust/</loc>
   </url>
 </urlset>
