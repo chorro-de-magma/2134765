@@ -1,4 +1,4 @@
-baseURL = 'https://notes-2134.vercel.app/'
+baseURL = 'https://2134.vercel.app/'
 languageCode = 'en-us'
 title = "2134"
 theme = "PaperMod"
