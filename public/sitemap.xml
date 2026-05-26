@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://2134.vercel.app/</loc>
+    <loc>http://localhost:3000/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/cases/</loc>
+    <loc>http://localhost:3000/posts/cases/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/complete/</loc>
+    <loc>http://localhost:3000/posts/complete/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/dancing-inc/</loc>
+    <loc>http://localhost:3000/posts/dancing-inc/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/denial-style/</loc>
+    <loc>http://localhost:3000/posts/denial-style/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/dilating-dimensions/</loc>
+    <loc>http://localhost:3000/posts/dilating-dimensions/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/drying-rack/</loc>
+    <loc>http://localhost:3000/posts/drying-rack/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/faulty-cables/</loc>
+    <loc>http://localhost:3000/posts/faulty-cables/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/fibonacci-face/</loc>
+    <loc>http://localhost:3000/posts/fibonacci-face/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/lost-in-the-mirror/</loc>
+    <loc>http://localhost:3000/posts/lost-in-the-mirror/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/</loc>
+    <loc>http://localhost:3000/posts/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/psychological-loots/</loc>
+    <loc>http://localhost:3000/posts/psychological-loots/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/shrieked/</loc>
+    <loc>http://localhost:3000/posts/shrieked/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/posts/trust/</loc>
+    <loc>http://localhost:3000/posts/trust/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://2134.vercel.app/categories/</loc>
+    <loc>http://localhost:3000/categories/</loc>
   </url><url>
-    <loc>https://2134.vercel.app/tags/</loc>
+    <loc>http://localhost:3000/tags/</loc>
   </url>
 </urlset>

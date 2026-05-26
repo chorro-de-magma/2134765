@@ -1,9 +1,3 @@
----
-title: "psychological loots"
-date: 2024-05-26
----
-
-
 # psychological loots
 the iris shoots  
 alien fruits  
@@ -14,4 +8,4 @@ psychological loots
 cut ties into suits   
 bands sling tributes  
 wrapped by denial   
-to wring into a sap that's in style
+to wring into a sap of style

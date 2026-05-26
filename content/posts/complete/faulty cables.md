@@ -1,9 +1,3 @@
----
-title: "faulty cables"
-date: 2024-05-26
----
-
-
 # faulty cables
 faulty cables,  
 tools we can't handle,  

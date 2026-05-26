@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2134</title>
-    <link>https://2134.vercel.app/</link>
+    <link>http://localhost:3000/</link>
     <description>Recent content on 2134</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://2134.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cases</title>
-      <link>https://2134.vercel.app/posts/cases/</link>
+      <link>http://localhost:3000/posts/cases/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/cases/</guid>
+      <guid>http://localhost:3000/posts/cases/</guid>
       <description>&lt;h1 id=&#34;cases&#34;&gt;cases&lt;/h1&gt;
 &lt;p&gt;cases of nuts,&lt;br&gt;
 brief and injust&lt;/p&gt;</description>
     </item>
     <item>
       <title>complete</title>
-      <link>https://2134.vercel.app/posts/complete/</link>
+      <link>http://localhost:3000/posts/complete/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/complete/</guid>
+      <guid>http://localhost:3000/posts/complete/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;title-complete&#34;&gt;title: &amp;ldquo;complete&amp;rdquo;&lt;/h2&gt;
 &lt;h1 id=&#34;complete&#34;&gt;complete&lt;/h1&gt;
@@ -29,9 +29,9 @@ brief and injust&lt;/p&gt;</description>
     </item>
     <item>
       <title>dancing inc</title>
-      <link>https://2134.vercel.app/posts/dancing-inc/</link>
+      <link>http://localhost:3000/posts/dancing-inc/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/dancing-inc/</guid>
+      <guid>http://localhost:3000/posts/dancing-inc/</guid>
       <description>&lt;h1 id=&#34;dancing-inc&#34;&gt;dancing inc&lt;/h1&gt;
 &lt;p&gt;noose ended strings,&lt;/p&gt;
 &lt;p&gt;descended to the ground,&lt;/p&gt;
@@ -49,26 +49,26 @@ brief and injust&lt;/p&gt;</description>
     </item>
     <item>
       <title>denial style</title>
-      <link>https://2134.vercel.app/posts/denial-style/</link>
+      <link>http://localhost:3000/posts/denial-style/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/denial-style/</guid>
+      <guid>http://localhost:3000/posts/denial-style/</guid>
       <description>&lt;h1 id=&#34;denial-style&#34;&gt;denial style&lt;/h1&gt;
 &lt;p&gt;the best denial&lt;br&gt;
 is the one in style&lt;/p&gt;</description>
     </item>
     <item>
       <title>dilating dimensions</title>
-      <link>https://2134.vercel.app/posts/dilating-dimensions/</link>
+      <link>http://localhost:3000/posts/dilating-dimensions/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/dilating-dimensions/</guid>
+      <guid>http://localhost:3000/posts/dilating-dimensions/</guid>
       <description>&lt;h1 id=&#34;dilating-dimensions&#34;&gt;dilating dimensions&lt;/h1&gt;
 &lt;p&gt;hear no details&lt;/p&gt;</description>
     </item>
     <item>
       <title>drying rack</title>
-      <link>https://2134.vercel.app/posts/drying-rack/</link>
+      <link>http://localhost:3000/posts/drying-rack/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/drying-rack/</guid>
+      <guid>http://localhost:3000/posts/drying-rack/</guid>
       <description>&lt;h1 id=&#34;drying-rack&#34;&gt;drying rack&lt;/h1&gt;
 &lt;p&gt;the drying rack floods&lt;br&gt;
 fear into the ear drums&lt;br&gt;
@@ -78,9 +78,9 @@ mechanical here-comes&lt;/p&gt;</description>
     </item>
     <item>
       <title>faulty cables</title>
-      <link>https://2134.vercel.app/posts/faulty-cables/</link>
+      <link>http://localhost:3000/posts/faulty-cables/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/faulty-cables/</guid>
+      <guid>http://localhost:3000/posts/faulty-cables/</guid>
       <description>&lt;h1 id=&#34;faulty-cables&#34;&gt;faulty cables&lt;/h1&gt;
 &lt;p&gt;faulty cables,&lt;br&gt;
 tools we can&amp;rsquo;t handle,&lt;br&gt;
@@ -99,9 +99,9 @@ in bubbles of beer&lt;/p&gt;</description>
     </item>
     <item>
       <title>fibonacci face</title>
-      <link>https://2134.vercel.app/posts/fibonacci-face/</link>
+      <link>http://localhost:3000/posts/fibonacci-face/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/fibonacci-face/</guid>
+      <guid>http://localhost:3000/posts/fibonacci-face/</guid>
       <description>&lt;h1 id=&#34;fibonacci-face&#34;&gt;fibonacci face&lt;/h1&gt;
 &lt;p&gt;faust ticks boxes into perimetry&lt;br&gt;
 as the alien licks shadows of the symmetry&lt;br&gt;
@@ -110,9 +110,9 @@ before blinding grace&amp;rsquo;s fibonacci&lt;/p&gt;</description>
     </item>
     <item>
       <title>lost in the mirror</title>
-      <link>https://2134.vercel.app/posts/lost-in-the-mirror/</link>
+      <link>http://localhost:3000/posts/lost-in-the-mirror/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/lost-in-the-mirror/</guid>
+      <guid>http://localhost:3000/posts/lost-in-the-mirror/</guid>
       <description>&lt;h1 id=&#34;lost-in-the-mirror&#34;&gt;lost in the mirror&lt;/h1&gt;
 &lt;p&gt;it&amp;rsquo;s finding yourself &lt;br&gt;
 lost in the mirror&lt;br&gt;
@@ -131,9 +131,9 @@ and trapped fresh air into bubbles of beer&lt;/p&gt;</description>
     </item>
     <item>
       <title>psychological loots</title>
-      <link>https://2134.vercel.app/posts/psychological-loots/</link>
+      <link>http://localhost:3000/posts/psychological-loots/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/psychological-loots/</guid>
+      <guid>http://localhost:3000/posts/psychological-loots/</guid>
       <description>&lt;h1 id=&#34;psychological-loots&#34;&gt;psychological loots&lt;/h1&gt;
 &lt;p&gt;the iris shoots&lt;br&gt;
 alien fruits&lt;br&gt;
@@ -148,9 +148,9 @@ to wring into a sap that&amp;rsquo;s in style&lt;/p&gt;</description>
     </item>
     <item>
       <title>shrieked</title>
-      <link>https://2134.vercel.app/posts/shrieked/</link>
+      <link>http://localhost:3000/posts/shrieked/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/shrieked/</guid>
+      <guid>http://localhost:3000/posts/shrieked/</guid>
       <description>&lt;h1 id=&#34;shrieked&#34;&gt;shrieked&lt;/h1&gt;
 &lt;p&gt;shrieked when he shrunk &lt;br&gt;
 from the axe to the trunk&lt;br&gt;
@@ -158,9 +158,9 @@ the big dick of the monk&lt;/p&gt;</description>
     </item>
     <item>
       <title>trust</title>
-      <link>https://2134.vercel.app/posts/trust/</link>
+      <link>http://localhost:3000/posts/trust/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://2134.vercel.app/posts/trust/</guid>
+      <guid>http://localhost:3000/posts/trust/</guid>
       <description>&lt;h1 id=&#34;trust&#34;&gt;trust&lt;/h1&gt;
 &lt;p&gt;all i trust is disgust&lt;/p&gt;
 &lt;p&gt;and the freedom monger&amp;rsquo;s uncontrollable lust&lt;/p&gt;

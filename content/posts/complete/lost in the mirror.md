@@ -1,9 +1,3 @@
----
-title: "lost in the mirror"
-date: 2024-05-26
----
-
-
 # lost in the mirror
 it's finding yourself   
 lost in the mirror  
@@ -17,5 +11,5 @@ grinding to a cult
 cutting you off from the rear  
 leaping back to the year  
 you forgot to toss for a 2 sided sear  
-when your weeping flooded you with fear  
+when weeping flooded you with fear  
 and trapped fresh air into bubbles of beer

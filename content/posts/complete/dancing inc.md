@@ -1,9 +1,3 @@
----
-title: "dancing inc"
-date: 2024-05-26
----
-
-
 # dancing inc
 noose ended strings,
 
@@ -47,15 +41,15 @@ with the lift of dirty forks, 
 
 like a unison of 34 bjorks it sings 
 
-the birth of an undead corpse. 
+the summon of an undead corpse. 
 
-metal rings and ching chings
+metal rings, ching chings
 
 but the heart burn still stings, 
 
 and brings parasitic storks to wings. 
 
-the pill's trip was of grim nature 
+the pill's trip was grim
 
 just saw wide eyed grins claw at
 
@@ -63,7 +57,7 @@ ovoid pupils void of quadruples 
 
 pleasing erasure that lied and flowed the tide deeper bellow the fins
 
-the reaper feasting on sowed sins 
+the reaper feasting on sowed sins further down the road
 
 bleaching bins to preserve the perverse, terrier mode
 
