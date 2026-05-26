@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://notes-2134.vercel.app/posts/</loc></url><url><loc>https://notes-2134.vercel.app/</loc></url><url><loc>https://notes-2134.vercel.app/categories/</loc></url><url><loc>https://notes-2134.vercel.app/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/cases/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/complete/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/dancing-inc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/denial-style/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/dilating-dimensions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/drying-rack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/faulty-cables/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/fibonacci-face/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/lost-in-the-mirror/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/psychological-loots/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/shrieked/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/trust/</loc>
+  </url>
+</urlset>
