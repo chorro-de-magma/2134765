@@ -1,6 +1,8 @@
 ---
 title: "shrieked"
+date: 2024-05-26
 ---
+
 
 # shrieked
 shrieked when he shrunk   

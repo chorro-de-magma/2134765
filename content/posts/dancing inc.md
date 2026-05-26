@@ -1,6 +1,8 @@
 ---
 title: "dancing inc"
+date: 2024-05-26
 ---
+
 
 # dancing inc
 noose ended strings,

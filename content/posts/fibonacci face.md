@@ -1,6 +1,8 @@
 ---
 title: "fibonacci face"
+date: 2024-05-26
 ---
+
 
 # fibonacci face
 faust ticks boxes into perimetry  

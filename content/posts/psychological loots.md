@@ -1,6 +1,8 @@
 ---
 title: "psychological loots"
+date: 2024-05-26
 ---
+
 
 # psychological loots
 the iris shoots  

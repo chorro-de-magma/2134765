@@ -1,6 +1,8 @@
 ---
 title: "lost in the mirror"
+date: 2024-05-26
 ---
+
 
 # lost in the mirror
 it's finding yourself   

@@ -1,6 +1,8 @@
 ---
 title: "trust"
+date: 2024-05-26
 ---
+
 
 # trust
 all i trust is disgust
