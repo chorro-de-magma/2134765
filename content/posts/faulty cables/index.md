@@ -1,3 +1,7 @@
+---
+title: "faulty cables"
+---
+
 # faulty cables
 faulty cables,  
 tools we can't handle,  

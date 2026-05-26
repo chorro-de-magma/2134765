@@ -1,3 +1,7 @@
+---
+title: "drying rack"
+---
+
 # drying rack
 the drying rack floods  
 fear into the ear drums  

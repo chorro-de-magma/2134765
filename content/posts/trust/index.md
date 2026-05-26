@@ -1,3 +1,7 @@
+---
+title: "trust"
+---
+
 # trust
 all i trust is disgust
 

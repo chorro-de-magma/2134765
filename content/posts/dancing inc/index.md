@@ -1,3 +1,7 @@
+---
+title: "dancing inc"
+---
+
 # dancing inc
 noose ended strings,
 
