@@ -1,7 +1,6 @@
 # dancing inc
 noose ended strings,
 
-description: "dancing inc"
 
 and hooked around loose limbs. 
 

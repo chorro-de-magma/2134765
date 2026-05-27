@@ -1,7 +1,6 @@
 # trust
 all i trust is disgust
 
-description: "trust"
 
 leaves of lettuce enshrined in moldable dust
 

@@ -1,7 +1,6 @@
 # faulty cables
 faulty cables,  
 tools we can't handle,  
-description: "faulty cables"
 right angle.  
 corporate claw,  
 from yams to yaml,   

@@ -1,7 +1,6 @@
 # lost in the mirror
 it's finding yourself   
 lost in the mirror  
-description: "lost in the mirror"
 that sings your ear to the shelf  
 the elf winding bind drifts near   
 before indicating a kind  

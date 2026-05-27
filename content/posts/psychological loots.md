@@ -1,7 +1,6 @@
 # psychological loots
 the iris shoots  
 alien fruits  
-description: "psychological loots"
 to help them ascend…  
 _their roots_.  
 psychological loots  
