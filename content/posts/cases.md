@@ -1,5 +1,7 @@
 ---
 title: "cases"
 ---
-cases of nuts,
+
+# cases
+cases of nuts,  
 brief and injust
