@@ -2,8 +2,6 @@
 title: "dancing inc"
 ---
 
-\---
-
 noose ended strings,
 
 descended to the ground,

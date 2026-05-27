@@ -2,5 +2,5 @@
 title: "cases"
 ---
 
-cases of nuts,  
+of nuts,  
 brief and injust
