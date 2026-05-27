@@ -1,7 +1,7 @@
 # shrieked
 shrieked when she shrunk   
 from the axe to the trunk
-
+description: "shrieked"
 diet restricts  
 imagery junk
 

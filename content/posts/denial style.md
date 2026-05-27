@@ -1,3 +1,3 @@
 # denial style
 the best denial  
-is the one in style
+is the one in styledescription: "denial style"

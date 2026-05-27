@@ -1,7 +1,7 @@
 # trust
 all i trust is disgust
 
-and the freedom monger's uncontrollable lust
+description: "trust"
 
 leaves of lettuce enshrined in moldable dust
 

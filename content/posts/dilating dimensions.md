@@ -1,2 +1,2 @@
 # dilating dimensions
-speak no details
+speak no detailsdescription: "dilating dimensions"

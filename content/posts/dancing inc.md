@@ -1,7 +1,7 @@
 # dancing inc
 noose ended strings,
 
-descended to the ground,
+description: "dancing inc"
 
 and hooked around loose limbs. 
 
