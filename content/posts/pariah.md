@@ -2,7 +2,6 @@
 title: "pariah"
 ---
 
-# pariah
 ---
 
 title: pariah

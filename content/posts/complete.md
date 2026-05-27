@@ -2,7 +2,6 @@
 title: "complete"
 ---
 
-# complete
 people who very clearly don't see themself very clearly. their private life degrades into performance. ther
 
 material elites vs moral elites  

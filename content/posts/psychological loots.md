@@ -2,7 +2,6 @@
 title: "psychological loots"
 ---
 
-# psychological loots
 the iris shoots  
 alien fruits  
 at bubbly boots  

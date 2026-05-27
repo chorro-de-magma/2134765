@@ -2,7 +2,6 @@
 title: "fibonacci face"
 ---
 
-# fibonacci face
 faust ticks boxes into perimetry  
 as the alien licks shadows of the symmetry  
 faced to shine patchy  

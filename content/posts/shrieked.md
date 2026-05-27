@@ -2,7 +2,6 @@
 title: "shrieked"
 ---
 
-# shrieked
 shrieked when she shrunk   
 from the axe to the trunk
 

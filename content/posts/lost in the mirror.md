@@ -2,7 +2,6 @@
 title: "lost in the mirror"
 ---
 
-# lost in the mirror
 it's finding yourself   
 lost in the mirror  
 when the structure revs a gear  
