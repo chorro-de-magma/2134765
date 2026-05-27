@@ -1,4 +1,8 @@
 # dancing inc
+\---  
+title: “dancing inc”  
+\---
+
 noose ended strings,
 
 descended to the ground,
@@ -18,6 +22,8 @@ metal rings, ching chings
 but the heart burn still stings, 
 
 and brings parasitic storks to wings. 
+
+want
 
 the pill's trip was grim
 
