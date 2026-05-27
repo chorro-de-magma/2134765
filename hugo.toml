@@ -9,3 +9,4 @@ section = ["HTML", "RSS"]
 
 [params]
   description = "notes"
+  useTitle = true
