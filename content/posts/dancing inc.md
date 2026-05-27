@@ -21,18 +21,17 @@ but the heart burn still stings, 
 
 and brings parasitic storks to wings. 
 
-want
 
-the pill's trip was grim
+the pill's trip was grim.
 
 just saw wide eyed grins claw at
 
-ovoid pupils void of quadruples 
+ovoid pupils void of quadruples,
 
-pleasing erasure that lied and flowed the tide deeper bellow the fins
+pleasing erasure lied and flowed the tide deeper bellow the fins
 
 towards the reaper feasting on sowed sins further down the road
 
 bleaching bins to preserve the perverse, terrier mode
 
-alchemising tissue into tins for a heavier load
+alchemising tissue into tins for a heavier load.
