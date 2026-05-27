@@ -1,5 +1,5 @@
 ---
-title: "fibonacci face"
+title: "fib"
 ---
 
 faust ticks boxes into perimetry  

@@ -18,11 +18,9 @@ the summon of an undead corpse. 
 
 metal rings, ching chings
 
-but the heart burn still stings, 
+but the heart burn still stings
 
 and brings parasitic storks to wings. 
-
-want
 
 the pill's trip was grim
 
@@ -30,7 +28,7 @@ just saw wide eyed grins claw at
 
 ovoid pupils void of quadruples 
 
-pleasing erasure that lied and flowed the tide deeper bellow the fins
+pleasing erasure that lied and flowed the tide deeper below the fins
 
 towards the reaper feasting on sowed sins further down the road
 
