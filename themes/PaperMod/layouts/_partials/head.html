@@ -181,9 +181,22 @@
     }
 
 </script>
+
 {{- end }}
 
 {{- partial "extend_head.html" . -}}
+
+<script>
+function copyRSSLink(event) {
+    event.preventDefault();
+    const rssUrl = event.currentTarget.href;
+    navigator.clipboard.writeText(rssUrl).then(() => {
+        alert('RSS link copied to clipboard!');
+    }).catch(err => {
+        console.error('Failed to copy:', err);
+    });
+}
+</script>
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
