@@ -2,50 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:3000/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/cases/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/cases-copy-1/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/complete/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/cases/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/dancing-inc/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/denial-style/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/dancing-inc/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/dilating-dimensions/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/faulty-cables/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/drying-rack/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/fibonacci-face/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/faulty-cables/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/lost-in-the-mirror/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/fibonacci-face/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/pariah/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/lost-in-the-mirror/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/psychological-loots/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/psychological-loots/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/poems/shrieked/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/shrieked/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:3000/posts/trust/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:3000/categories/</loc>
-  </url><url>
-    <loc>http://localhost:3000/tags/</loc>
+    <loc>http://localhost:1313/posts/poems/trust/</loc>
   </url>
 </urlset>

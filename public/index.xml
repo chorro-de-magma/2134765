@@ -1,88 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>2134</title>
-    <link>http://localhost:3000/</link>
-    <description>Recent content on 2134</description>
+    <title>2134765</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 2134765</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cases</title>
-      <link>http://localhost:3000/posts/cases/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/cases/</guid>
-      <description>&lt;h1 id=&#34;cases&#34;&gt;cases&lt;/h1&gt;
-&lt;p&gt;cases of nuts,&lt;br&gt;
+      <link>http://localhost:1313/posts/poems/cases-copy-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/cases-copy-1/</guid>
+      <description>&lt;p&gt;of nuts,&lt;br&gt;
 brief and injust&lt;/p&gt;</description>
     </item>
     <item>
-      <title>complete</title>
-      <link>http://localhost:3000/posts/complete/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/complete/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;title-complete&#34;&gt;title: &amp;ldquo;complete&amp;rdquo;&lt;/h2&gt;
-&lt;h1 id=&#34;complete&#34;&gt;complete&lt;/h1&gt;
-&lt;p&gt;Your content here.&lt;/p&gt;</description>
+      <title>cases</title>
+      <link>http://localhost:1313/posts/poems/cases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/cases/</guid>
+      <description>&lt;p&gt;of nuts,&lt;br&gt;
+brief and injust&lt;/p&gt;</description>
     </item>
     <item>
       <title>dancing inc</title>
-      <link>http://localhost:3000/posts/dancing-inc/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/dancing-inc/</guid>
-      <description>&lt;h1 id=&#34;dancing-inc&#34;&gt;dancing inc&lt;/h1&gt;
-&lt;p&gt;noose ended strings,&lt;/p&gt;
+      <link>http://localhost:1313/posts/poems/dancing-inc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/dancing-inc/</guid>
+      <description>&lt;p&gt;noose ended strings,&lt;/p&gt;
 &lt;p&gt;descended to the ground,&lt;/p&gt;
 &lt;p&gt;and hooked around loose limbs. &lt;/p&gt;
-&lt;p&gt;deprived of gravity it warps things,&lt;/p&gt;
-&lt;p&gt;a corpse revived with the lift of dirty forks.&lt;/p&gt;
-&lt;p&gt;sings like a unison of 34 bjorks&lt;/p&gt;
-&lt;p&gt;heart burn still stings, &lt;/p&gt;
-&lt;p&gt;and brings parasitical storks to wings&lt;/p&gt;
+&lt;p&gt;deprived of gravity it warps,&lt;/p&gt;
+&lt;p&gt;with the lift of dirty forks, &lt;/p&gt;
+&lt;p&gt;like a unison of 34 bjorks it sings &lt;/p&gt;
+&lt;p&gt;the summon of an undead corpse. &lt;/p&gt;
+&lt;p&gt;metal rings, ching chings&lt;/p&gt;
+&lt;p&gt;but the heart burn still stings&lt;/p&gt;
+&lt;p&gt;and brings parasitic storks to wings. &lt;/p&gt;
 &lt;p&gt;the pill&amp;rsquo;s trip was grim&lt;/p&gt;
-&lt;p&gt;just saw wide eyed grins,&lt;/p&gt;
-&lt;p&gt;ovoid pupils void of quadruples &lt;/p&gt;
-&lt;p&gt;pleasing erasure that flowed deeper into &lt;/p&gt;
-&lt;p&gt;the reaper feasting on sowed sins &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>denial style</title>
-      <link>http://localhost:3000/posts/denial-style/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/denial-style/</guid>
-      <description>&lt;h1 id=&#34;denial-style&#34;&gt;denial style&lt;/h1&gt;
-&lt;p&gt;the best denial&lt;br&gt;
-is the one in style&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>dilating dimensions</title>
-      <link>http://localhost:3000/posts/dilating-dimensions/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/dilating-dimensions/</guid>
-      <description>&lt;h1 id=&#34;dilating-dimensions&#34;&gt;dilating dimensions&lt;/h1&gt;
-&lt;p&gt;hear no details&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>drying rack</title>
-      <link>http://localhost:3000/posts/drying-rack/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/drying-rack/</guid>
-      <description>&lt;h1 id=&#34;drying-rack&#34;&gt;drying rack&lt;/h1&gt;
-&lt;p&gt;the drying rack floods&lt;br&gt;
-fear into the ear drums&lt;br&gt;
-monitors themselves&lt;br&gt;
-head in the clouds&lt;br&gt;
-mechanical here-comes&lt;/p&gt;</description>
+&lt;p&gt;just saw wide eyed grins claw at&lt;/p&gt;
+&lt;p&gt;ovoid pupils void of quadruples &lt;/p&gt;</description>
     </item>
     <item>
       <title>faulty cables</title>
-      <link>http://localhost:3000/posts/faulty-cables/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/faulty-cables/</guid>
-      <description>&lt;h1 id=&#34;faulty-cables&#34;&gt;faulty cables&lt;/h1&gt;
-&lt;p&gt;faulty cables,&lt;br&gt;
+      <link>http://localhost:1313/posts/poems/faulty-cables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/faulty-cables/</guid>
+      <description>&lt;p&gt;faulty cables,&lt;br&gt;
 tools we can&amp;rsquo;t handle,&lt;br&gt;
 tennis tables,&lt;br&gt;
 right angle.&lt;br&gt;
@@ -92,50 +57,53 @@ lip took the last sip&lt;br&gt;
 from the camel&amp;rsquo;s paw,&lt;br&gt;
 tension in the jaw,&lt;br&gt;
 elastic resistance &lt;br&gt;
-to binary law.&lt;/p&gt;
-&lt;p&gt;flooded with fear&lt;br&gt;
-fresh air trapped &lt;br&gt;
-in bubbles of beer&lt;/p&gt;</description>
+to binary law.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>fibonacci face</title>
-      <link>http://localhost:3000/posts/fibonacci-face/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/fibonacci-face/</guid>
-      <description>&lt;h1 id=&#34;fibonacci-face&#34;&gt;fibonacci face&lt;/h1&gt;
-&lt;p&gt;faust ticks boxes into perimetry&lt;br&gt;
+      <title>fib</title>
+      <link>http://localhost:1313/posts/poems/fibonacci-face/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/fibonacci-face/</guid>
+      <description>&lt;p&gt;faust ticks boxes into perimetry&lt;br&gt;
 as the alien licks shadows of the symmetry&lt;br&gt;
 faced to shine patchy&lt;br&gt;
 before blinding grace&amp;rsquo;s fibonacci&lt;/p&gt;</description>
     </item>
     <item>
       <title>lost in the mirror</title>
-      <link>http://localhost:3000/posts/lost-in-the-mirror/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/lost-in-the-mirror/</guid>
-      <description>&lt;h1 id=&#34;lost-in-the-mirror&#34;&gt;lost in the mirror&lt;/h1&gt;
-&lt;p&gt;it&amp;rsquo;s finding yourself &lt;br&gt;
+      <link>http://localhost:1313/posts/poems/lost-in-the-mirror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/lost-in-the-mirror/</guid>
+      <description>&lt;p&gt;it&amp;rsquo;s finding yourself &lt;br&gt;
 lost in the mirror&lt;br&gt;
 when the structure revs a gear&lt;br&gt;
 that sings your ear to the shelf&lt;br&gt;
 the elf winding bind drifts near &lt;br&gt;
 before indicating a kind&lt;br&gt;
 of professional steer&lt;br&gt;
-across the dead feet of a cardboard crowd&amp;rsquo;s cheer&lt;br&gt;
+across the dead feet of your cardboard crowd&amp;rsquo;s cheer&lt;br&gt;
 grinding to a cult&lt;br&gt;
 cutting you off from the rear&lt;br&gt;
 leaping back to the year&lt;br&gt;
 you forgot to toss for a 2 sided sear&lt;br&gt;
-when your weeping flooded you with fear&lt;br&gt;
+when weeping flooded you with fear&lt;br&gt;
 and trapped fresh air into bubbles of beer&lt;/p&gt;</description>
     </item>
     <item>
+      <title>pariah</title>
+      <link>http://localhost:1313/posts/poems/pariah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/pariah/</guid>
+      <description>&lt;p&gt;authentically a pariah&lt;br&gt;
+caring will but no longer a christmas present for mariah&lt;br&gt;
+snaring grey delay but still cosmetically a papaya&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>psychological loots</title>
-      <link>http://localhost:3000/posts/psychological-loots/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/psychological-loots/</guid>
-      <description>&lt;h1 id=&#34;psychological-loots&#34;&gt;psychological loots&lt;/h1&gt;
-&lt;p&gt;the iris shoots&lt;br&gt;
+      <link>http://localhost:1313/posts/poems/psychological-loots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/psychological-loots/</guid>
+      <description>&lt;p&gt;the iris shoots&lt;br&gt;
 alien fruits&lt;br&gt;
 at bubbly boots&lt;br&gt;
 to help them ascend…&lt;br&gt;
@@ -144,35 +112,33 @@ psychological loots&lt;br&gt;
 cut ties into suits &lt;br&gt;
 bands sling tributes&lt;br&gt;
 wrapped by denial &lt;br&gt;
-to wring into a sap that&amp;rsquo;s in style&lt;/p&gt;</description>
+to wring into a sap of style&lt;/p&gt;</description>
     </item>
     <item>
       <title>shrieked</title>
-      <link>http://localhost:3000/posts/shrieked/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/shrieked/</guid>
-      <description>&lt;h1 id=&#34;shrieked&#34;&gt;shrieked&lt;/h1&gt;
-&lt;p&gt;shrieked when he shrunk &lt;br&gt;
-from the axe to the trunk&lt;br&gt;
-the big dick of the monk&lt;/p&gt;</description>
+      <link>http://localhost:1313/posts/poems/shrieked/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/shrieked/</guid>
+      <description>&lt;p&gt;shrieked when she shrunk &lt;br&gt;
+from the axe to the trunk&lt;/p&gt;
+&lt;p&gt;diet restricts&lt;br&gt;
+imagery junk&lt;/p&gt;
+&lt;p&gt;running from your scripted funk&lt;/p&gt;
+&lt;p&gt;interrogating dreams&lt;br&gt;
+chunk by chunk&lt;br&gt;
+lie it down&lt;br&gt;
+the bed was bunk&lt;/p&gt;</description>
     </item>
     <item>
       <title>trust</title>
-      <link>http://localhost:3000/posts/trust/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3000/posts/trust/</guid>
-      <description>&lt;h1 id=&#34;trust&#34;&gt;trust&lt;/h1&gt;
-&lt;p&gt;all i trust is disgust&lt;/p&gt;
+      <link>http://localhost:1313/posts/poems/trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/poems/trust/</guid>
+      <description>&lt;p&gt;all i trust is disgust&lt;/p&gt;
 &lt;p&gt;and the freedom monger&amp;rsquo;s uncontrollable lust&lt;/p&gt;
 &lt;p&gt;leaves of lettuce enshrined in moldable dust&lt;/p&gt;
 &lt;p&gt;ghosts that you will never bust&lt;/p&gt;
-&lt;p&gt;red flag that you sussed, that are everywhere and not worthy of being fussed&lt;/p&gt;
-&lt;p&gt;living corpse dancey for the nazi&lt;/p&gt;
-&lt;p&gt;reap what you sow&lt;/p&gt;
-&lt;p&gt;deep side burrow under a surface of snow&lt;/p&gt;
-&lt;p&gt;the reaper grim bypassing the know&lt;/p&gt;
-&lt;p&gt;requires intentional glow&lt;/p&gt;
-&lt;p&gt;even the silent wind blow&lt;/p&gt;</description>
+&lt;p&gt;red flag that you sussed, but are everywhere and not worthy of being fussed&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
