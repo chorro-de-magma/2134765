@@ -1,6 +1,7 @@
 baseURL = 'https://2134765.vercel.app/'
 languageCode = 'en-us'
 title = "2134765"
+description = "my thoughts"
 theme = "PaperMod"
 
 [outputs]
