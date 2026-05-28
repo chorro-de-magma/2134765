@@ -19,6 +19,9 @@
                             {{- $img = $img.Resize "x30" }}
                         {{- end }}
                     {{- end }}
+                    <a href="{{ .Site.BaseURL }}posts/poems/index.xml" class="rss-button">
+					Subscribe (RSS)
+					</a>
                     <img src="{{ $img.Permalink }}" alt="" aria-label="logo"
                         height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- else }}
