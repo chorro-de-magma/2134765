@@ -11,16 +11,7 @@ leaves of lettuce enshrined in moldable dust
 
 ghosts that you will never bust
 
-red flag that you sussed, but are everywhere and not worthy of being fussed
+red flag that you sussed,
 
-living corpse dancey for the nazi
+but is everywhere so not worthy of being fussed
 
-reap what you sow
-
-deep side burrow under a surface of snow
-
-the reaper grim bypassing the know
-
-requires intentional glow
-
-even the silent wind blow

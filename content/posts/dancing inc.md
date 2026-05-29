@@ -17,9 +17,9 @@ like a unison of 34 Björks it sings 
 
 the drift of a petal to a corpse. 
 
-ching chings, metal rings
+metal rings, ching chings
 
-as still hearts sting a burning cry
+still hearts sting a burning cry
 
 that bring parasitic storks to wing why. 
 
