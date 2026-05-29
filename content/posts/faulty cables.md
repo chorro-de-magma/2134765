@@ -5,6 +5,11 @@ date: 2026-05-29
 
 ---
 title: "faulty cables"
+date: 2026-05-29
+---
+
+---
+title: "faulty cables"
 ---
 
 faulty cables,  

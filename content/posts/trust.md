@@ -5,6 +5,11 @@ date: 2026-05-29
 
 ---
 title: "trust"
+date: 2026-05-29
+---
+
+---
+title: "trust"
 ---
 
 all i trust is disgust
