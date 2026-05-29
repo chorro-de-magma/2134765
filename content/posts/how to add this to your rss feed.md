@@ -1,5 +1,5 @@
 ---
-title: "how to add this to your rss fe"
+title: "how to add this to your rss feed"
 date: 2026-05-29
 ---
 
