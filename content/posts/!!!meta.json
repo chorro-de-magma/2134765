@@ -4,66 +4,280 @@
 	"files": [
 		{
 			"isClone": false,
-			"noteId": "TKxeA6pBXGnk",
+			"noteId": "WnT0SGfDguRc",
 			"notePath": [
-				"TKxeA6pBXGnk"
+				"WnT0SGfDguRc"
 			],
-			"title": "complete",
-			"notePosition": 50,
+			"title": "posts",
+			"notePosition": 90,
 			"prefix": null,
 			"isExpanded": true,
 			"type": "text",
 			"mime": "text/html",
 			"attributes": [],
 			"format": "markdown",
-			"dataFileName": "complete.md",
 			"attachments": [],
-			"dirFileName": "complete",
+			"dirFileName": "posts",
 			"children": [
 				{
 					"isClone": false,
-					"noteId": "0LuXEbIvR7fd",
+					"noteId": "TKxeA6pBXGnk",
 					"notePath": [
-						"TKxeA6pBXGnk",
-						"0LuXEbIvR7fd"
+						"WnT0SGfDguRc",
+						"TKxeA6pBXGnk"
 					],
-					"title": "dancing inc",
+					"title": "poems",
 					"notePosition": 10,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
 					"format": "markdown",
-					"dataFileName": "dancing inc.md",
-					"attachments": []
+					"dataFileName": "poems.md",
+					"attachments": [],
+					"dirFileName": "poems",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "0LuXEbIvR7fd",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"0LuXEbIvR7fd"
+							],
+							"title": "dancing inc",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "dancing inc.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "EGTHxbqUV0ZU",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"EGTHxbqUV0ZU"
+							],
+							"title": "faulty cables",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "faulty cables.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "DVSZ4b1IEtc7",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"DVSZ4b1IEtc7"
+							],
+							"title": "dilating dimensions",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "dilating dimensions.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "GCviXEfjE3ls",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"GCviXEfjE3ls"
+							],
+							"title": "trust",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "trust.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "CVMUrP8Ikf6x",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"CVMUrP8Ikf6x"
+							],
+							"title": "shrieked",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "shrieked.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "q4G6TyHDHYy2",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"q4G6TyHDHYy2"
+							],
+							"title": "drying rack",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "drying rack.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "s1fxdpdnCG8J",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"s1fxdpdnCG8J"
+							],
+							"title": "fibonacci face",
+							"notePosition": 100,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "fibonacci face.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "4y3DAl6TFitC",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"4y3DAl6TFitC"
+							],
+							"title": "psychological loots",
+							"notePosition": 110,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "psychological loots.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "zxV1ZnjyXjtu",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"zxV1ZnjyXjtu"
+							],
+							"title": "lost in the mirror",
+							"notePosition": 120,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "lost in the mirror.md",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "kzxGjUjGQuPo",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"TKxeA6pBXGnk",
+								"kzxGjUjGQuPo"
+							],
+							"title": "pariah",
+							"notePosition": 130,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "pariah.md",
+							"attachments": []
+						}
+					]
 				},
 				{
 					"isClone": false,
-					"noteId": "EGTHxbqUV0ZU",
+					"noteId": "DUrZNBYWms9z",
 					"notePath": [
-						"TKxeA6pBXGnk",
-						"EGTHxbqUV0ZU"
+						"WnT0SGfDguRc",
+						"DUrZNBYWms9z"
 					],
-					"title": "faulty cables",
+					"title": "how to add this to your rss feed",
 					"notePosition": 20,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
 					"format": "markdown",
-					"dataFileName": "faulty cables.md",
-					"attachments": []
+					"dataFileName": "how to add this to your rss fe.md",
+					"attachments": [],
+					"dirFileName": "how to add this to your rss feed",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "o3FG5EPmDJjY",
+							"notePath": [
+								"WnT0SGfDguRc",
+								"DUrZNBYWms9z",
+								"o3FG5EPmDJjY"
+							],
+							"title": "test",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "markdown",
+							"dataFileName": "test.md",
+							"attachments": []
+						}
+					]
 				},
 				{
 					"isClone": false,
-					"noteId": "GCviXEfjE3ls",
+					"noteId": "wUJvQmuGC6Zu",
 					"notePath": [
-						"TKxeA6pBXGnk",
-						"GCviXEfjE3ls"
+						"WnT0SGfDguRc",
+						"wUJvQmuGC6Zu"
 					],
-					"title": "trust",
+					"title": "",
 					"notePosition": 30,
 					"prefix": null,
 					"isExpanded": false,
@@ -71,151 +285,7 @@
 					"mime": "text/html",
 					"attributes": [],
 					"format": "markdown",
-					"dataFileName": "trust.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "DVSZ4b1IEtc7",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"DVSZ4b1IEtc7"
-					],
-					"title": "dilating dimensions",
-					"notePosition": 40,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "dilating dimensions.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "CVMUrP8Ikf6x",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"CVMUrP8Ikf6x"
-					],
-					"title": "shrieked",
-					"notePosition": 50,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "shrieked.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "q4G6TyHDHYy2",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"q4G6TyHDHYy2"
-					],
-					"title": "drying rack",
-					"notePosition": 60,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "drying rack.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "DUrZNBYWms9z",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"DUrZNBYWms9z"
-					],
-					"title": "how to add this to your rss feed",
-					"notePosition": 70,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "how to add this to your rss fe.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "s1fxdpdnCG8J",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"s1fxdpdnCG8J"
-					],
-					"title": "fibonacci face",
-					"notePosition": 90,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "fibonacci face.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "4y3DAl6TFitC",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"4y3DAl6TFitC"
-					],
-					"title": "psychological loots",
-					"notePosition": 100,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "psychological loots.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "zxV1ZnjyXjtu",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"zxV1ZnjyXjtu"
-					],
-					"title": "lost in the mirror",
-					"notePosition": 110,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "lost in the mirror.md",
-					"attachments": []
-				},
-				{
-					"isClone": false,
-					"noteId": "kzxGjUjGQuPo",
-					"notePath": [
-						"TKxeA6pBXGnk",
-						"kzxGjUjGQuPo"
-					],
-					"title": "pariah",
-					"notePosition": 120,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"attributes": [],
-					"format": "markdown",
-					"dataFileName": "pariah.md",
+					"dataFileName": "note.md",
 					"attachments": []
 				}
 			]
