@@ -3,19 +3,10 @@ title: "psychological loots"
 date: 2026-05-29
 ---
 
----
-title: "psychological loots"
-date: 2026-05-29
----
-
----
-title: "psychological loots"
----
-
 the iris shoots  
 alien fruits  
 at bubbly boots  
-to help them ascend…  
+to help them ascend  
 _their roots_.  
 psychological loots  
 cut ties into suits   

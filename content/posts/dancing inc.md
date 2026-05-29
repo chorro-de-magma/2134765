@@ -3,15 +3,6 @@ title: "dancing inc"
 date: 2026-05-29
 ---
 
----
-title: "dancing inc"
-date: 2026-05-29
----
-
----
-title: "dancing inc"
----
-
 noose ended strings,
 
 descended to the ground,
@@ -22,25 +13,31 @@ deprived of gravity it warps,
 
 with the lift of dirty forks, 
 
-like a unison of 34 bjorks it sings 
+like a unison of 34 Björks it sings 
 
-the summon of an undead corpse. 
+the drift of an undead corpse. 
 
 metal rings, ching chings
 
-but the heart burn still stings
+but still hearts sting a burning cry
 
-and brings parasitic storks to wings. 
+that bring parasitic storks to wing why. 
 
 the pill's trip was grim
 
-just saw wide eyed grins claw at
+just sawing wide eyed grins 
 
-ovoid pupils void of quadruples 
+clawing at ovoid pupils
 
-pleasing erasure that lied and flowed the tide deeper below the fins
+void of quadruples 
 
-towards the reaper feasting on sowed sins further down the road
+drawing a pleasing erasure that lied to the side
+
+to flow the tide deeper below the fins
+
+towards the reaper feasting on sowed sins.
+
+skins itch further down the road
 
 bleaching bins to preserve the perverse, terrier mode
 

@@ -3,15 +3,6 @@ title: "lost in the mirror"
 date: 2026-05-29
 ---
 
----
-title: "lost in the mirror"
-date: 2026-05-29
----
-
----
-title: "lost in the mirror"
----
-
 it's finding yourself   
 lost in the mirror  
 when the structure revs a gear  
