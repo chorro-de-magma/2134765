@@ -1,5 +1,10 @@
 ---
 title: "dancing inc"
+date: 2026-05-29
+---
+
+---
+title: "dancing inc"
 ---
 
 noose ended strings,

@@ -1,5 +1,10 @@
 ---
 title: "psychological loots"
+date: 2026-05-29
+---
+
+---
+title: "psychological loots"
 ---
 
 the iris shoots  

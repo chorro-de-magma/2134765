@@ -1,4 +1,9 @@
 ---
+title: "fibonacci face"
+date: 2026-05-29
+---
+
+---
 title: "fib"
 ---
 
