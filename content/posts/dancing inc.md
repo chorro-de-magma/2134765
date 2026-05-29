@@ -15,11 +15,11 @@ with the lift of dirty forks, 
 
 like a unison of 34 Björks it sings 
 
-the drift of an undead corpse. 
+the drift of a petal to a corpse. 
 
-metal rings, ching chings
+ching chings, metal rings
 
-but still hearts sting a burning cry
+as still hearts sting a burning cry
 
 that bring parasitic storks to wing why. 
 
