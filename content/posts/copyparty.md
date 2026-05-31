@@ -17,4 +17,4 @@ Copyparty serves as a cornerstone for digital autonomy by returning control of y
 
 By keeping your server lightweight and dependency-free, copyparty reduces the "technical debt" of managing complex services, allowing you to focus on your content rather than fighting with the infrastructure
 
-\<iframe src="https://a.ocv.me/pub/demo/music/chiptunes/#af-bd94d434,sorthref" width="100%" height="600px" frameborder="0"\>\</iframe\>
+<iframe src="https://a.ocv.me/pub/demo/music/chiptunes/#af-bd94d434,sorthref" width="100%" height="600px" frameborder="0"></iframe>
