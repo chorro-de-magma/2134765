@@ -11,3 +11,6 @@ theme = "PaperMod"
 [params]
   description = "notes"
   useTitle = true
+  
+[markup.goldmark.renderer]
+unsafe = true
