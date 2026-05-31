@@ -1,4 +1,10 @@
-# copyparty
+---
+title: copyparty
+date:1/06/26
+---
+
+<iframe src="https://100.121.11.4:3923/music/" width="100%" height="600px" frameborder="0"></iframe>
+
 Copyparty is a lightweight, portable file server that turns any device into a powerful file management hub. Think of it as a personal "cloud" that you control completely, running directly on your own hardware rather than relying on third-party services like Google Drive or Dropbox
 
 ## Why It’s Great for Beginners
@@ -17,4 +23,3 @@ Copyparty serves as a cornerstone for digital autonomy by returning control of y
 
 By keeping your server lightweight and dependency-free, copyparty reduces the "technical debt" of managing complex services, allowing you to focus on your content rather than fighting with the infrastructure
 
-<iframe src="https://100.121.11.4:3923/music/" width="100%" height="600px" frameborder="0"></iframe>
