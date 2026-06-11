@@ -1,5 +1,10 @@
 ---
 title: "trust"
+date: 2026-06-11
+---
+
+---
+title: "trust"
 date: 2026-05-29
 ---
 

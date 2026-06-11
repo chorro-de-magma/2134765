@@ -1,4 +1,8 @@
-# pearls
+---
+title: "pearls"
+date: 2026-06-11
+---
+
 no going back,  
 just turning to the side  
 when I curl back around

@@ -1,6 +1,6 @@
 ---
 title: "dancing inc"
-date: 2026-05-29
+date: 2026-06-11
 ---
 
 noose ended strings,
@@ -15,11 +15,11 @@ with the lift of dirty forks, 
 
 like a unison of 34 Björks it sings 
 
-the drift of a petal to a corpse. 
+the drift from a petal to a corpse. 
 
-metal rings, ching chings
+ching chings, metal rings
 
-still hearts sting a burning cry
+but still hearts sting a burning cry
 
 that bring parasitic storks to wing why. 
 
