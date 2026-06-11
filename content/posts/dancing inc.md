@@ -3,11 +3,6 @@ title: "dancing inc"
 date: 2026-06-11
 ---
 
----
-title: "dancing inc"
-date: 2026-06-11
----
-
 noose ended strings,
 
 descended to the ground,
